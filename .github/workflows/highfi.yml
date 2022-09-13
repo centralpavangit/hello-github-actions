@@ -1,0 +1,4 @@
+name: on pull requests
+on: 
+  pull_request:
+    types: [opened]
